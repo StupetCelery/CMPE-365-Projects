@@ -1,3 +1,7 @@
+Triangle Strips Project
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This code builds triangle strips from a triangle mesh.
 
 A triangle strip is a sequence of triangles, such that each triangle in the sequence shares an edge with the next triangle in the sequence.
